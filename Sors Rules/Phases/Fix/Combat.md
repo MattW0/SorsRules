@@ -1,0 +1,1 @@
+During _Combat_ you can **attack** your opponent and/or their Technologies with your Creatures on the Battlefield. In an additional step, you choose how to **block** you opponent's attacking Creatures with your own.

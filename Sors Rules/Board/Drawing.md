@@ -1,0 +1,3 @@
+You can only play cards from your [[Hand]]. Money cards move to the Money Zone and are discarded at the end of each phase. If you have unspent cash and if the difference allows it, Money cards are returned to your hand. You draw cards from your Deck, moving them to your Hand. Whenever you attempt to draw, but your Deck is empty, you shuffle your Discard pile, move these cards to your Deck and continue drawing. If you still can't draw more cards, you skip that draw instead. 
+
+As a special action, you can trash cards from you [[Hand]]. Doing so moves the cards to the [[Trash]] zone, which normally can't be interacted with. The [[Trash]] zone is the only one shared between both players.

@@ -1,0 +1,1 @@
+Money cards do not have an equivalent entity but have a [[Value]], producing that amount of cash when you play them.

@@ -1,0 +1,1 @@
+To buy a card, you spend a _Buy_ and pay an amount of _Cash_ equal to that card's _Cost_. Playing _Technologies_ and _Creatures_ also requires you to pay that cost and uses a _Play_.  Playing a money card is a special action and does not require to spend a _Play_ (you can play unlimited money cards from your hand).

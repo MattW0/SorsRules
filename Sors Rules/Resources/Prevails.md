@@ -1,0 +1,1 @@
+_Prevails_ grant you special actions in the Prevail Phase.

@@ -1,0 +1,1 @@
+Entities can only exist on the [[Board/Battlefield|Battlefield]].
