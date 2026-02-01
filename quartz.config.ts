@@ -17,14 +17,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "_assets"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_assets/Excalidraw"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Orbitron",
+        body: "Anta",
         code: "IBM Plex Mono",
       },
       colors: {

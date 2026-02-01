@@ -11,4 +11,4 @@ The **Player/Opponent Stats** shows your and your opponent's stats, including th
 </figure>
 
 
-![[_assets/Excalidraw/battlefield.md#^group=MSgbzpFWBpHbjMH-QrxQL]]
+![[_assets/Excalidraw/battlefield#^group=MSgbzpFWBpHbjMH-QrxQL]]
