@@ -1,0 +1,1 @@
+Entities can only exist on the [[Cards and Entities/Battlefield|Battlefield]].
